@@ -59,7 +59,7 @@ python run_gui.py
 ```
 - Via Shortcut:
 ```bash
-double-clickrun_gui.py
+Double click run_gui.py
 ```
 
 ### Workflow:
