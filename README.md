@@ -60,6 +60,7 @@ python run_gui.py
 - Via Shortcut:
 ```bash
 double-clickrun_gui.py
+```
 
 ### Workflow:
 1.  **Add Videos:** Use the "Add Videos" button to select the source files you want to scan.
