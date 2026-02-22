@@ -2,7 +2,7 @@
 
 PyFrameCatcher is a powerful desktop application built with Python, PyQt6, and OpenCV, designed to identify specific frames within video files based on target images. It's ideal for video analysis, content moderation, or any task requiring precise frame-matching across multiple video sources.
 
-## 🚦 Usecase
+## 🚦 Use Case
 
 You have a video and you want to find specific frames in it (beggining and end of add block, no signal, video intro, credits, etc.). You can use this application to find those frames and export them as a video or audio file (or both) and use them as markers for video editing in your preffered video editor. No need to manually go through the video and find those frames. You only need to provide the target images (screenshots) and the application will do the rest.
 

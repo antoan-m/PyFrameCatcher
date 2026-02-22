@@ -39,7 +39,7 @@ class MarkerWorker(QThread):
 class MainWindow(QMainWindow):
     def __init__(self):
         super().__init__()
-        self.setWindowTitle("Frame Detector")
+        self.setWindowTitle("PyFrameCatcher")
         self.resize(1000, 750)
 
         self.videos = []
@@ -218,7 +218,7 @@ class MainWindow(QMainWindow):
         self.status_version.setStyleSheet("color: #666")
         self.status_author = QLabel("Author: antoan-m")
         self.status_author.setStyleSheet("color: #666")
-        self.status_repo = QLabel('<a href="https://github.com/antoan-m/PyFrameDetector" style="color: #666; text-decoration: none;">GitHub Repo</a>')
+        self.status_repo = QLabel('<a href="https://github.com/antoan-m/PyFrameCatcher" style="color: #666; text-decoration: none;">GitHub Repo</a>')
         self.status_repo.setOpenExternalLinks(True)
         
         self.status_bar.addPermanentWidget(self.status_version)

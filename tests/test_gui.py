@@ -11,7 +11,7 @@ class TestGuiLayout(unittest.TestCase):
         self.window = MainWindow()
 
     def test_window_title(self):
-        self.assertEqual(self.window.windowTitle(), "Frame Detector")
+        self.assertEqual(self.window.windowTitle(), "PyFrameCatcher")
 
     def test_widgets_exist(self):
         # Check for key components
