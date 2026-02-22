@@ -1,8 +1,0 @@
-{
-  "track_id": "frame_detector_mvp_20260213",
-  "type": "feature",
-  "status": "new",
-  "created_at": "2026-02-13T12:00:00Z",
-  "updated_at": "2026-02-13T12:00:00Z",
-  "description": "Build the core functionality of the Frame Detector application, including the GUI for selecting videos and images, the backend logic for frame matching using OpenCV/FFmpeg, and the results display with export capabilities."
-}

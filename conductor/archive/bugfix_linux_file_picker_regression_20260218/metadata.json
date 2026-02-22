@@ -1,8 +1,0 @@
-{
-  "track_id": "bugfix_linux_file_picker_regression_20260218",
-  "type": "bugfix",
-  "status": "new",
-  "created_at": "2026-02-18T10:00:00Z",
-  "updated_at": "2026-02-18T10:00:00Z",
-  "description": "Fix regression in file selection logic on Linux."
-}

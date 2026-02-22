@@ -1,8 +1,0 @@
-{
-  "track_id": "feature_marker_file_generation_20260218",
-  "type": "feature",
-  "status": "new",
-  "created_at": "2026-02-18T11:00:00Z",
-  "updated_at": "2026-02-18T11:00:00Z",
-  "description": "Generate black-frame marker videos and audio tones based on detection results."
-}
