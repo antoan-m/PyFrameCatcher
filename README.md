@@ -19,6 +19,7 @@ You have a video and you want to find specific frames in it (beggining and end o
     -   **Video Markers:** A video containing the matched frames at their original timestamps against a black background.
     -   **Audio Markers:** Audio tones (1kHz beeps) marking the start and end of matched ranges.
 -   **Cross-Platform:** Runs on Linux, Windows, and macOS (anywhere Python and PyQt6 are supported).
+-   **Auto Light/Dark Mode:** The application will automatically switch between light and dark mode based on your system settings.
 
 ## 🛠 Requirements
 
