@@ -44,6 +44,8 @@ You have a video and you want to find specific frames in it (beggining and end o
 
 3.  **Install FFmpeg:**
     -   **Ubuntu/Debian:** `sudo apt install ffmpeg`
+    -   **Fedora/RHEL:** `sudo dnf install ffmpeg`
+    -   **Arch Linux:** `sudo pacman -S ffmpeg`
     -   **macOS (Homebrew):** `brew install ffmpeg`
     -   **Windows:** Download from [ffmpeg.org](https://ffmpeg.org/download.html) and add to your PATH.
 
@@ -51,9 +53,13 @@ You have a video and you want to find specific frames in it (beggining and end o
 
 Launch the application using the provided entry point:
 
+- Via Terminal:
 ```bash
 python run_gui.py
 ```
+- Via Shortcut:
+```bash
+double-clickrun_gui.py
 
 ### Workflow:
 1.  **Add Videos:** Use the "Add Videos" button to select the source files you want to scan.
